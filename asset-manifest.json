@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FinTrack/static/css/main.4ef0b0ef.css",
+    "main.js": "/FinTrack/static/js/main.c780b63a.js",
+    "static/media/Card.png": "/FinTrack/static/media/Card.6bbb895a9960ca7cc361.png",
+    "index.html": "/FinTrack/index.html",
+    "main.4ef0b0ef.css.map": "/FinTrack/static/css/main.4ef0b0ef.css.map",
+    "main.c780b63a.js.map": "/FinTrack/static/js/main.c780b63a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef0b0ef.css",
+    "static/js/main.c780b63a.js"
+  ]
+}
